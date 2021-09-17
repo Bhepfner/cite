@@ -1,0 +1,11 @@
+#hg{
+background-image: repeating-linear-gradient(blue 10%,red 30%,blue 20%,red 5%,blue 15%,red 20%);
+box-shadow: 15px 15px 15px red;
+}
+h1{
+  color: red;
+  text-shadow: 3px 3px 3px grey;
+}
+input:hover{
+color:yellow;
+}
